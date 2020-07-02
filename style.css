@@ -1,0 +1,465 @@
+    /* PHONE ONLY */
+    
+    @media (max-width: 599px) {
+        /* BODY */
+        body {
+            text-align: center;
+            background-color: teal;
+        }
+        /* HEADING */
+        h1 {
+            font-size: 5rem;
+            color: #D8EDF3;
+            font-family: "Arvo", cursive;
+            text-shadow: 3px 0 #DA0463;
+        }
+        /* FOOTER */
+        footer {
+            color: #D8EDF3;
+            font-family: sans-serif;
+        }
+        /* CLASS-SET */
+        .set {
+            margin: 10% auto;
+        }
+        /* CLASS-GAME-OVER */
+        .game-over {
+            background-color: red;
+            opacity: 0.8;
+        }
+        /* CLASS-PRESSED */
+        .pressed {
+            box-shadow: 0 3px 4px 0 #DBEDF3;
+            opacity: 0.5;
+        }
+        /* CLASS-RED */
+        .red {
+            color: red;
+        }
+        /* CLASS-DRUM */
+        .drum {
+            outline: none;
+            border: 10px solid #404b69;
+            font-size: 5rem;
+            font-family: "Arvo", cursive;
+            line-height: 2;
+            font-weight: 900;
+            color: #DA0463;
+            text-shadow: #D8EDF3;
+            border-radius: 15px;
+            display: inline-block;
+            width: 150px;
+            height: 150px;
+            text-align: center;
+            margin: 10px;
+            background-color: white;
+        }
+        /* W-CLASS */
+        .w {
+            background-image: url(images/tom2.png);
+        }
+        /* A-CLASS */
+        .a {
+            background-image: url(images/tom1.png);
+        }
+        /* S-CLASS */
+        .s {
+            background-image: url(images/tom3.png);
+        }
+        /* D-CLASS */
+        .d {
+            background-image: url(images/tom4.png);
+        }
+        /* J-CLASS */
+        .j {
+            background-image: url(images/snare.png);
+        }
+        /* K-CLASS */
+        .k {
+            background-image: url(images/kick.png);
+        }
+        /* L-CLASS */
+        .l {
+            background-image: url(images/crash.png);
+        }
+        /* HR */
+        hr {
+            border: dotted;
+            border-top: none;
+            width: 5%;
+            text-align: center;
+            color: white;
+        }
+    }
+    /* TABLET POTRAIT UP ONLY */
+    
+    @media (min-width: 600px) {
+        /* BODY */
+        body {
+            text-align: center;
+            background-color: teal;
+        }
+        /* HEADING */
+        h1 {
+            font-size: 5rem;
+            color: #D8EDF3;
+            font-family: "Arvo", cursive;
+            text-shadow: 3px 0 #DA0463;
+        }
+        /* FOOTER */
+        footer {
+            color: #D8EDF3;
+            font-family: sans-serif;
+        }
+        /* CLASS-SET */
+        .set {
+            margin: 10% auto;
+        }
+        /* CLASS-GAME-OVER */
+        .game-over {
+            background-color: red;
+            opacity: 0.8;
+        }
+        /* CLASS-PRESSED */
+        .pressed {
+            box-shadow: 0 3px 4px 0 #DBEDF3;
+            opacity: 0.5;
+        }
+        /* CLASS-RED */
+        .red {
+            color: red;
+        }
+        /* CLASS-DRUM */
+        .drum {
+            outline: none;
+            border: 10px solid #404b69;
+            font-size: 5rem;
+            font-family: "Arvo", cursive;
+            line-height: 2;
+            font-weight: 900;
+            color: #DA0463;
+            text-shadow: #D8EDF3;
+            border-radius: 15px;
+            display: inline-block;
+            width: 150px;
+            height: 150px;
+            text-align: center;
+            margin: 10px;
+            background-color: white;
+        }
+        /* W-CLASS */
+        .w {
+            background-image: url(images/tom2.png);
+        }
+        /* A-CLASS */
+        .a {
+            background-image: url(images/tom1.png);
+        }
+        /* S-CLASS */
+        .s {
+            background-image: url(images/tom3.png);
+        }
+        /* D-CLASS */
+        .d {
+            background-image: url(images/tom4.png);
+        }
+        /* J-CLASS */
+        .j {
+            background-image: url(images/snare.png);
+        }
+        /* K-CLASS */
+        .k {
+            background-image: url(images/kick.png);
+        }
+        /* L-CLASS */
+        .l {
+            background-image: url(images/crash.png);
+        }
+        /* HR */
+        hr {
+            border: dotted;
+            border-top: none;
+            width: 5%;
+            text-align: center;
+            color: white;
+        }
+    }
+    /* TABLET LANDSCAPE UP */
+    
+    @media (min-width: 900px) {
+        /* BODY */
+        body {
+            text-align: center;
+            background-color: teal;
+        }
+        /* HEADING */
+        h1 {
+            font-size: 5rem;
+            color: #D8EDF3;
+            font-family: "Arvo", cursive;
+            text-shadow: 3px 0 #DA0463;
+        }
+        /* FOOTER */
+        footer {
+            color: #D8EDF3;
+            font-family: sans-serif;
+        }
+        /* CLASS-SET */
+        .set {
+            margin: 10% auto;
+        }
+        /* CLASS-GAME-OVER */
+        .game-over {
+            background-color: red;
+            opacity: 0.8;
+        }
+        /* CLASS-PRESSED */
+        .pressed {
+            box-shadow: 0 3px 4px 0 #DBEDF3;
+            opacity: 0.5;
+        }
+        /* CLASS-RED */
+        .red {
+            color: red;
+        }
+        /* CLASS-DRUM */
+        .drum {
+            outline: none;
+            border: 10px solid #404b69;
+            font-size: 5rem;
+            font-family: "Arvo", cursive;
+            line-height: 2;
+            font-weight: 900;
+            color: #DA0463;
+            text-shadow: #D8EDF3;
+            border-radius: 15px;
+            display: inline-block;
+            width: 150px;
+            height: 150px;
+            text-align: center;
+            margin: 10px;
+            background-color: white;
+        }
+        /* W-CLASS */
+        .w {
+            background-image: url(images/tom2.png);
+        }
+        /* A-CLASS */
+        .a {
+            background-image: url(images/tom1.png);
+        }
+        /* S-CLASS */
+        .s {
+            background-image: url(images/tom3.png);
+        }
+        /* D-CLASS */
+        .d {
+            background-image: url(images/tom4.png);
+        }
+        /* J-CLASS */
+        .j {
+            background-image: url(images/snare.png);
+        }
+        /* K-CLASS */
+        .k {
+            background-image: url(images/kick.png);
+        }
+        /* L-CLASS */
+        .l {
+            background-image: url(images/crash.png);
+        }
+        /* HR */
+        hr {
+            border: dotted;
+            border-top: none;
+            width: 5%;
+            text-align: center;
+            color: white;
+        }
+    }
+    /* DESKTOP UP */
+    
+    @media (min-width: 1200px) {
+        /* BODY */
+        body {
+            text-align: center;
+            background-color: teal;
+        }
+        /* HEADING */
+        h1 {
+            font-size: 5rem;
+            color: #D8EDF3;
+            font-family: "Arvo", cursive;
+            text-shadow: 3px 0 #DA0463;
+        }
+        /* FOOTER */
+        footer {
+            color: #D8EDF3;
+            font-family: sans-serif;
+        }
+        /* CLASS-SET */
+        .set {
+            margin: 10% auto;
+        }
+        /* CLASS-GAME-OVER */
+        .game-over {
+            background-color: red;
+            opacity: 0.8;
+        }
+        /* CLASS-PRESSED */
+        .pressed {
+            box-shadow: 0 3px 4px 0 #DBEDF3;
+            opacity: 0.5;
+        }
+        /* CLASS-RED */
+        .red {
+            color: red;
+        }
+        /* CLASS-DRUM */
+        .drum {
+            outline: none;
+            border: 10px solid #404b69;
+            font-size: 5rem;
+            font-family: "Arvo", cursive;
+            line-height: 2;
+            font-weight: 900;
+            color: #DA0463;
+            text-shadow: #D8EDF3;
+            border-radius: 15px;
+            display: inline-block;
+            width: 150px;
+            height: 150px;
+            text-align: center;
+            margin: 10px;
+            background-color: white;
+        }
+        /* W-CLASS */
+        .w {
+            background-image: url(images/tom2.png);
+        }
+        /* A-CLASS */
+        .a {
+            background-image: url(images/tom1.png);
+        }
+        /* S-CLASS */
+        .s {
+            background-image: url(images/tom3.png);
+        }
+        /* D-CLASS */
+        .d {
+            background-image: url(images/tom4.png);
+        }
+        /* J-CLASS */
+        .j {
+            background-image: url(images/snare.png);
+        }
+        /* K-CLASS */
+        .k {
+            background-image: url(images/kick.png);
+        }
+        /* L-CLASS */
+        .l {
+            background-image: url(images/crash.png);
+        }
+        /* HR */
+        hr {
+            border: dotted;
+            border-top: none;
+            width: 5%;
+            text-align: center;
+            color: white;
+        }
+    }
+    /* BIG DESKTOP UP */
+    
+    @media (min-width: 1800px) {
+        /* BODY */
+        body {
+            text-align: center;
+            background-color: teal;
+        }
+        /* HEADING */
+        h1 {
+            font-size: 5rem;
+            color: #D8EDF3;
+            font-family: "Arvo", cursive;
+            text-shadow: 3px 0 #DA0463;
+        }
+        /* FOOTER */
+        footer {
+            color: #D8EDF3;
+            font-family: sans-serif;
+        }
+        /* CLASS-SET */
+        .set {
+            margin: 10% auto;
+        }
+        /* CLASS-GAME-OVER */
+        .game-over {
+            background-color: red;
+            opacity: 0.8;
+        }
+        /* CLASS-PRESSED */
+        .pressed {
+            box-shadow: 0 3px 4px 0 #DBEDF3;
+            opacity: 0.5;
+        }
+        /* CLASS-RED */
+        .red {
+            color: red;
+        }
+        /* CLASS-DRUM */
+        .drum {
+            outline: none;
+            border: 10px solid #404b69;
+            font-size: 5rem;
+            font-family: "Arvo", cursive;
+            line-height: 2;
+            font-weight: 900;
+            color: #DA0463;
+            text-shadow: #D8EDF3;
+            border-radius: 15px;
+            display: inline-block;
+            width: 150px;
+            height: 150px;
+            text-align: center;
+            margin: 10px;
+            background-color: white;
+        }
+        /* W-CLASS */
+        .w {
+            background-image: url(images/tom2.png);
+        }
+        /* A-CLASS */
+        .a {
+            background-image: url(images/tom1.png);
+        }
+        /* S-CLASS */
+        .s {
+            background-image: url(images/tom3.png);
+        }
+        /* D-CLASS */
+        .d {
+            background-image: url(images/tom4.png);
+        }
+        /* J-CLASS */
+        .j {
+            background-image: url(images/snare.png);
+        }
+        /* K-CLASS */
+        .k {
+            background-image: url(images/kick.png);
+        }
+        /* L-CLASS */
+        .l {
+            background-image: url(images/crash.png);
+        }
+        /* HR */
+        hr {
+            border: dotted;
+            border-top: none;
+            width: 5%;
+            text-align: center;
+            color: white;
+        }
+    }
